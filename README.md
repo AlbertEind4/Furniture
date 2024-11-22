@@ -1,3 +1,3 @@
 # Furniture
 furnitureshowroom
-https://futnitureshowroom.netlify.app/
+https://splendorous-malasada-aa1de8.netlify.app/
